@@ -1,47 +1,39 @@
-Hi, I'm Rohith Danti 👋
+# Hi, I'm Rohith Danti 👋
 
-I'm currently pursuing my Master's in Computer Science at Arizona State University (GPA: 4.0/4.0). I have a passion for creating scalable solutions and exploring new technologies.
+I'm currently pursuing my Master's in Computer Science at **Arizona State University (GPA: 4.0/4.0)**. I have a passion for creating scalable solutions and exploring new technologies.
 
-🚀 Professional Experience
+## 🚀 Professional Experience
 
-Software Engineer Intern at Commvault (Summer 2024)
+### Software Engineer Intern - Commvault *(Summer 2024)*
+- Built a scalable anomaly detection system on Azure, automating analysis for 30,000+ daily transactions.
+- Developed visualization dashboards, significantly enhancing cyber resilience for over 150 enterprise customers.
 
-Built a scalable anomaly detection system on Azure, automating analysis for 30,000+ daily transactions.
+### Senior Software Engineer - Accenture *(Nov 2020 - July 2023)*
+- Led end-to-end development of Disney’s Ad Sales cloud platform, optimizing UX and boosting revenue per customer by $17,000.
+- Improved system reliability and automated deployment workflows, managing over 25 production releases.
 
-Developed visualization dashboards, significantly enhancing cyber resilience for over 150 enterprise customers.
+## 🛠️ Projects
 
-Senior Software Engineer at Accenture (Nov 2020 - July 2023)
+### AWS Cloud Facial Recognition App
+Engineered a serverless video analysis pipeline on AWS Lambda, achieving rapid face recognition using a deep-learning model.
 
-Led end-to-end development of Disney’s Ad Sales cloud platform, optimizing UX and boosting revenue per customer by $17,000.
+### Richter's Predictor
+Developed machine learning models to predict earthquake damage levels, enhancing prediction accuracy through ensembling techniques.
 
-Improved system reliability and automated deployment workflows, managing over 25 production releases.
+### Performance Evaluation *(Research)*
+Evaluated Apache Cassandra performance in containerized environments, automating deployments using Kubernetes.
 
-🛠️ Projects
+## 💻 Skills
+- **Languages**: Java, C++, Python, Go, JavaScript, SQL, Bash
+- **Frameworks**: React, Spring Boot, Node.js, PyTorch
+- **Tools & Platforms**: AWS, Azure, Docker, Kubernetes, CI/CD, Git
 
-AWS Cloud Facial Recognition App: Engineered a serverless video analysis pipeline on AWS Lambda, achieving rapid face recognition using a deep-learning model.
+## 📚 Education
+- **Master’s in Computer Science**, Arizona State University, 2023-2025
+- **Bachelor’s in Information Science**, Nitte Meenakshi Institute of Technology, 2016-2020
 
-Richter's Predictor: Developed machine learning models to predict earthquake damage levels, enhancing prediction accuracy through ensembling techniques.
-
-Performance Evaluation (Research): Evaluated Apache Cassandra performance in containerized environments, automating deployments using Kubernetes.
-
-💻 Skills
-
-Languages: Java, C++, Python, Go, JavaScript, SQL, Bash
-
-Frameworks: React, Spring Boot, Node.js, PyTorch
-
-Tools & Platforms: AWS, Azure, Docker, Kubernetes, CI/CD, Git
-
-📚 Education
-
-Master’s in Computer Science, Arizona State University, 2023-2025
-
-Bachelor’s in Information Science, Nitte Meenakshi Institute of Technology, 2016-2020
-
-🌐 Connect with Me
-
-Portfolio
-
-LinkedIn
+## 🌐 Connect with Me
+- [Portfolio](https://www.rohithdanti.info)
+- [LinkedIn](https://linkedin.com/in/rohith-danti)
 
 Feel free to reach out for collaboration, mentorship, or just to say hi!
