@@ -1,6 +1,6 @@
 # Hi, I'm Rohith Danti 👋
 
-I'm currently pursuing my Master's in Computer Science at **Arizona State University (GPA: 4.0/4.0)**. I have a passion for creating scalable solutions and exploring new technologies.
+I completed my Master's in Computer Science at **Arizona State University (GPA: 4.1/4.0)**. I have a passion for creating scalable solutions and exploring new technologies.
 
 ## 🚀 Professional Experience
 
@@ -36,4 +36,4 @@ Evaluated Apache Cassandra performance in containerized environments, automating
 - [Portfolio](https://www.rohithdanti.info)
 - [LinkedIn](https://linkedin.com/in/rohith-danti)
 
-Feel free to reach out for collaboration, mentorship, or just to say hi!
+Feel free to reach out for collaboration, or just to say hi!
